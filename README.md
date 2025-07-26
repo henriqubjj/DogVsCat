@@ -1,5 +1,5 @@
 # DogVsCat
-Image classification: Cat and Dog
+Image classification: Dog vs Cat
 
 This project aims to study and practice convolutional neural networks (CNNs) for image classification, specifically for distinguishing between cats and dogs. The model was trained from scratch using images from 20,000 training examples, and regularizatio, early stopping, and data augmentation techniques were applied to improve performance and avoid overfitting. The model is based on convolutional layers that learn to extract image features and are fine-tuned for binary classification.
 
